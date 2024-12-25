@@ -7,6 +7,7 @@ export const s = StyleSheet.create({
   root: {
     flex: 1,
     justifyContent: "center",
+    padding: 20,
   },
   workSpace: {
     height: 450,
